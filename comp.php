@@ -6,7 +6,7 @@
     //>=
     //<=
     
-    $name = 'Varshin';
+    $name = 'Varshini';
     $age = 19;
     
     if ($name == 'Varshini') {
